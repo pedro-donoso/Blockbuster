@@ -1,12 +1,16 @@
 
+
   <div class="col-4 py-2">
-    <div class="card">
+    <div class="card" id="card_width">
 
-      <img src="https://picsum.photos/200/300" class="card-img-top" alt="Pelicula">
+      <img src="https://picsum.photos/200/300" class="card-img-top" alt="Pelicula" id="img_height">
 
-      <div class="card-body">
+      <div class="card-body" id="body_bg" >
         <h5 class="card-title"><%= movie.name %></h5>
-        <%= link_to "Show this movie", movie, class: "btn btn-primary" %>
+        <%= link_to "Show this movie", movie, class: "btn btn-success" %>
       </div>
     </div>
   </div>
+
+
+

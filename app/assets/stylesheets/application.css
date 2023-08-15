@@ -13,3 +13,16 @@
  *= require_tree .
  *= require_self
  */
+
+ #body_bg{
+   background-color: rgb(225, 13, 225);
+ }
+
+ #img_height{
+    height: 13rem;
+    width: 100%;
+ }
+
+ #card_width{
+    width: 23rem;
+ }
