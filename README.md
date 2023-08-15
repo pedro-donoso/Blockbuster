@@ -1,5 +1,6 @@
-se trabaja sobre un proyecto rails ya creado, por lo que se traeran los archivos requeridos al proyecto nuevo
+![Captura desde 2023-08-15 15-13-37](https://github.com/pedro-donoso/Blockbuster/assets/68760595/12c379f4-3314-4793-af6c-d375be01030d)
 
+se trabaja sobre un proyecto rails ya creado, por lo que se traeran los archivos requeridos al proyecto nuevo
 
 1- creo proyecto en rails con base de datos postgresql
 
